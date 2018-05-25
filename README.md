@@ -1,0 +1,1 @@
+A simple project by using Clarify API to implement the basic face recognition.
